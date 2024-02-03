@@ -1,4 +1,4 @@
-# [UR10e](docs/ur10e-product-factsheet-ru-web.pdf) robot control toolkit.
+# [UR10e](docs/ur10e-product-factsheet-ru-web.pdf) robot control toolkit
 
 
 <p float="left" align="middle">
