@@ -2,8 +2,8 @@
 
 
 <p float="left" align="middle">
-  <img src="docs/assets/ur10e.png" width="200" align="middle" hspace="20"/>
-  <img src="docs/assets/equipment.png" width="200" align="middle" hspace="20"/>
+  <img src="docs/assets/ur10e.png" width="40%" align="middle" hspace="20"/>
+  <img src="docs/assets/equipment.png" width="40%" align="middle" hspace="20"/>
 </p>
 
 ## Installation
